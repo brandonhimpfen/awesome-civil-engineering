@@ -29,6 +29,7 @@
 - **[What is Civil Engineering?](https://en.wikipedia.org/wiki/Civil_engineering)** - An overview of civil engineering and its sub-disciplines.
 - **[ASCE](https://www.asce.org/)** - The American Society of Civil Engineers, a professional organization for civil engineers.
 - **[ICE](https://www.ice.org.uk/)** - Institution of Civil Engineers, offering resources and certifications for professionals.
+- **[BuildRefs](https://buildrefs.com)** - Free reference of construction calculators, steel section-property tables, converters, and code guides for engineers and contractors.
 
 ## Structural Engineering Tools
 
