@@ -88,6 +88,7 @@
 
 ## Educational Resources
 
+- **[Construction Takeoff Practice Plans](https://github.com/krflol/takeoff-field-tools-practice-plans)** - Five free synthetic plan sets, answer schedules, and an instructor guide for practicing construction counts, lengths, areas, and volumes.
 - **[MIT OpenCourseWare: Civil Engineering](https://ocw.mit.edu/courses/civil-and-environmental-engineering/)** - Free civil engineering course materials from MIT.
 - **[Coursera: Structural Engineering](https://www.coursera.org/learn/structural-engineering)** - A beginner-friendly course on structural engineering.
 - **[NPTEL Civil Engineering Courses](https://nptel.ac.in/course.html)** - Free online courses on civil engineering topics.
