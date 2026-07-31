@@ -45,6 +45,7 @@
 - **[gINT](https://www.bentley.com/en/products/brands/gint)** - A tool for managing and analyzing geotechnical data.
 - **[Settle3](https://www.rocscience.com/software/settle3)** - A program for soil settlement and consolidation analysis.
 - **[OptumG2](https://optumce.com/)** - A tool for geotechnical stability and deformation analysis.
+- **[GeoEq](https://github.com/geoeq/geoeq)** - A Python library for onshore geotechnical workflows: soil classification, lab testing, SPT/CPT interpretation, foundation design, soil dynamics, and liquefaction analysis.
 
 ## Transportation Engineering
 
