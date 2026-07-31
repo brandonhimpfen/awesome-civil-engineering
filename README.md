@@ -69,6 +69,7 @@
 - **[Procore](https://www.procore.com/)** - A cloud-based platform for construction project management.
 - **[Navisworks](https://www.autodesk.com/products/navisworks/overview)** - A tool for project review and coordination in construction.
 - **[BIM 360](https://www.autodesk.com/bim-360/)** - A platform for Building Information Modeling (BIM) and collaboration.
+- **[Concrete Estimator Hub](https://concreteestimatorhub.com/)** - Free concrete estimating calculators for slab volume, bag counts, material cost, ready-mix comparison, post holes, and small construction planning.
 
 ## GIS and Remote Sensing
 
