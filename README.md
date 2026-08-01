@@ -64,6 +64,7 @@
 
 ## Construction Management Tools
 
+- **[Concrete Estimator Hub](https://concreteestimatorhub.com/)** - Free concrete estimating calculators for slabs, bags, ready-mix decisions, project cost checks, and quote review workflows.
 - **[Primavera P6](https://www.oracle.com/primavera/)** - A tool for construction project management and scheduling.
 - **[Microsoft Project](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software)** - A project management tool widely used in construction.
 - **[Procore](https://www.procore.com/)** - A cloud-based platform for construction project management.
