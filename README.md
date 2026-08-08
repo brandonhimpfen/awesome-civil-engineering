@@ -64,6 +64,7 @@
 
 ## Construction Management Tools
 
+- **[Build Quantities](https://buildquantities.com/)** - Browser-based construction quantity calculators with metric and imperial units, visible formulas, assumptions, and rounding.
 - **[Primavera P6](https://www.oracle.com/primavera/)** - A tool for construction project management and scheduling.
 - **[Microsoft Project](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software)** - A project management tool widely used in construction.
 - **[Procore](https://www.procore.com/)** - A cloud-based platform for construction project management.
