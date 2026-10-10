@@ -86,6 +86,7 @@
 - **[HydroShare](https://www.hydroshare.org/)** - A platform for sharing water-related data and models.
 - **[NOAA National Water Model](https://water.noaa.gov/about/nwm)** - Datasets for water resource modeling and prediction.
 - **[OpenTopography](https://opentopography.org/)** - A platform for accessing high-resolution topographic data.
+- **[rebar-data](https://github.com/rebarcount/rebar-data)** - Nominal rebar sizes, weights and cross-sectional areas for US (#3-#18) and metric (10-40 mm) bars, as CSV, plus a small Python estimator. (MIT)
 
 ## Educational Resources
 
