@@ -68,6 +68,7 @@
 - **[Primavera P6](https://www.oracle.com/primavera/)** - A tool for construction project management and scheduling.
 - **[Microsoft Project](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software)** - A project management tool widely used in construction.
 - **[Procore](https://www.procore.com/)** - A cloud-based platform for construction project management.
+- **[Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator)** - A free U.S. roof replacement cost planning calculator with regional and material inputs.
 - **[Navisworks](https://www.autodesk.com/products/navisworks/overview)** - A tool for project review and coordination in construction.
 - **[BIM 360](https://www.autodesk.com/bim-360/)** - A platform for Building Information Modeling (BIM) and collaboration.
 
