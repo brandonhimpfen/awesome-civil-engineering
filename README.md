@@ -92,6 +92,7 @@
 - **[MIT OpenCourseWare: Civil Engineering](https://ocw.mit.edu/courses/civil-and-environmental-engineering/)** - Free civil engineering course materials from MIT.
 - **[Coursera: Structural Engineering](https://www.coursera.org/learn/structural-engineering)** - A beginner-friendly course on structural engineering.
 - **[NPTEL Civil Engineering Courses](https://nptel.ac.in/course.html)** - Free online courses on civil engineering topics.
+- **[PitchCalc](https://pitchcalc.com/?utm_source=github&utm_medium=github&utm_campaign=brandonhimpfen_awesome-civil-engineering)** - Free browser-based roof math tools for pitch, area, rafters, and shingle quantities. Planning estimates only, not structural design.
 - **[Khan Academy: Structural Engineering](https://www.khanacademy.org/)** - Educational content on structural mechanics and materials.
 - **[YouTube: Civil Engineering Channels](https://www.youtube.com/)** - Channels like Practical Engineering and The B1M.
 
